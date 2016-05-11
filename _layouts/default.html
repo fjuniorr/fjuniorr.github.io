@@ -1,46 +1,15 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+<html lang="en-us">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+  {% include head.html %}
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+  <body>
 
-    </head>
-    <body>
+    {% include sidebar.html %}
 
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="http://fjunior.org">{{ site.name }}</a></h1>
-            <a class="extra" href="/about.html">about</a>
-            <a class="extra" href="/categories.html">categories</a>
-            <a class="extra" href="/tags.html">tags</a>
-            <a class="extra" href="/links.html">links</a>
-          </div>
+    <div class="content container">
+      {{ content }}
+    </div>
 
-          {{ content }}
-
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Francisco Alves<br />
-                Administrador Público<br />
-                fjunior.alves.oliveira@gmail.com
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/fjuniorr">github.com/fjuniorr</a><br />
-              </p>
-            </div>
-          </div>
-        </div>
-
-    </body>
+  </body>
 </html>
