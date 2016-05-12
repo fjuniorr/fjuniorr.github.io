@@ -10,11 +10,11 @@
     <atom:link href="http://blog.fjunior.org/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>welcome to my First Blog Post</title>
-      <link>http://blog.fjunior.org/blog/2016/05/11/welcome-to-my-first-blog-post/</link>
+      <title>Hello World</title>
+      <link>http://blog.fjunior.org/blog/2016/05/11/hello-world/</link>
       <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.fjunior.org/blog/2016/05/11/welcome-to-my-first-blog-post/</guid>
+      <guid>http://blog.fjunior.org/blog/2016/05/11/hello-world/</guid>
       <description>&lt;p&gt;&amp;ldquo;At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.&lt;/p&gt;
 
 &lt;p&gt;Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.&amp;rdquo;&lt;/p&gt;
@@ -22,26 +22,6 @@
 &lt;p&gt;&amp;ldquo;At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;&amp;ldquo;At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.&amp;rdquo;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>welcome to my First Blog Post</title>
-      <link>http://blog.fjunior.org/blog/2016/05/11/welcome-to-my-first-blog-post/</link>
-      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.fjunior.org/blog/2016/05/11/welcome-to-my-first-blog-post/</guid>
-      <description>&lt;p&gt;loremipsum&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>welcome to my Second Blog Post</title>
-      <link>http://blog.fjunior.org/blog/2016/05/11/welcome-to-my-second-blog-post/</link>
-      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.fjunior.org/blog/2016/05/11/welcome-to-my-second-blog-post/</guid>
-      <description>&lt;p&gt;loremipsum&lt;/p&gt;
 </description>
     </item>
     
